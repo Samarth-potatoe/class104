@@ -1,0 +1,28 @@
+body{
+    color: teal;
+    background: black;
+}
+
+.heading{
+    width: 80%;
+    font-size: 35px;
+}
+
+.name_of_objects{
+    color: lime;
+    font-size: 30px;
+}
+
+#camera{
+    border: 2px navy;
+    width: 350px;
+    height: 300px;
+}
+
+#result_object_name{
+    color:orange;
+}
+
+#result_object_accuracy{
+    color: blue;
+}
